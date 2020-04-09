@@ -4,17 +4,18 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  sub = num1 - num2
-  p sub
+  dif = num1 - num2
+  p dif
 end
 
 def division(num1, num2)
-  div = num2 / num1
-  p div
+  quotient = num2 / num1
+  p quotient
 end
 
 def multiplication(num1, num2)
-
+  product = num1 * num2
+  p product
 end
 
 def modulo(num1, num2)
